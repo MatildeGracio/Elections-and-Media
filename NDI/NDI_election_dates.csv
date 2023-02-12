@@ -1,0 +1,255 @@
+,Country,Election type,date
+0,Benin,Legislative,2023-01-08 00:00:00
+1,Benin,Legislative,2011-04-17 08:00:00
+2,Benin,Legislative,2007-03-31 08:00:00
+3,Benin,Parliamentary,2019-04-28 00:00:00
+4,Benin,Parliamentary,2015-04-26 00:00:00
+5,Benin,Presidential,2021-04-11 00:00:00
+6,Benin,Presidential,2016-03-06 10:00:00
+7,Benin,Presidential,2011-03-13 09:00:00
+8,Benin,Presidential,2006-03-05 10:00:00
+9,Benin,Presidential Runoff,2016-03-20 08:00:00
+10,Benin,Presidential Runoff,2006-03-19 10:00:00
+11,Botswana,General,2014-10-24 08:00:00
+12,Botswana,Local,2019-10-23 00:00:00
+13,Botswana,Parliamentary,2019-10-23 00:00:00
+14,Botswana,Parliamentary,2009-10-16 08:00:00
+15,Burkina Faso,Legislative,2020-11-22 00:00:00
+16,Burkina Faso,Local,2012-12-02 10:00:00
+17,Burkina Faso,Local,2006-03-12 10:00:00
+18,Burkina Faso,Municipal,2016-05-22 08:00:00
+19,Burkina Faso,Parliamentary,2007-05-06 08:00:00
+20,Burkina Faso,Presidential,2020-11-22 00:00:00
+21,Burkina Faso,Presidential,2015-11-29 00:00:00
+22,Burkina Faso,Presidential,2010-11-21 10:00:00
+23,Burkina Faso,Presidential,2005-11-13 10:00:00
+24,Burkina Faso,Referendum,2019-03-24 00:00:00
+25,Cameroon,Legislative,2020-02-09 00:00:00
+26,Cameroon,Legislative,2013-09-30 08:00:00
+27,Cameroon,Legislative,2013-04-14 08:00:00
+28,Cameroon,Municipal,2020-02-09 00:00:00
+29,Cameroon,Presidential,2018-10-07 00:00:00
+30,Cameroon,Presidential,2011-10-09 08:00:00
+31,Cameroon,Presidential,2004-10-01 08:00:00
+32,Gabon,Legislative,2018-10-06 00:00:00
+33,Gabon,Legislative,2017-07-29 00:00:00
+34,Gabon,Parliamentary,2011-12-17 10:00:00
+35,Gabon,Presidential,2016-08-27 00:00:00
+36,Gabon,Presidential,2009-08-30 08:00:00
+37,Ghana,General,2020-12-07 00:00:00
+38,Ghana,General,2012-12-07 10:00:00
+39,Ghana,Parliamentary,2016-12-07 00:00:00
+40,Ghana,Presidential,2016-12-07 00:00:00
+41,Ghana,Presidential,2008-12-07 10:00:00
+42,Ghana,Presidential,2004-12-07 10:00:00
+43,Ghana,Presidential Runoff,2008-12-28 10:00:00
+44,Ghana,Presidential Runoff,2004-12-28 10:00:00
+45,Guinea,Legislative,2020-03-22 00:00:00
+46,Guinea,Legislative,2019-01-12 00:00:00
+47,Guinea,Legislative,2013-09-28 08:00:00
+48,Guinea,Local,2018-02-04 00:00:00
+49,Guinea,Local,2017-02-04 00:00:00
+50,Guinea,Parliamentary,2007-01-01 10:00:00
+51,Guinea,Presidential,2020-10-18 00:00:00
+52,Guinea,Presidential,2015-10-11 00:00:00
+53,Guinea,Presidential,2010-06-27 08:00:00
+54,Guinea,Presidential Runoff,2010-11-07 09:00:00
+55,Guinea,Referendum,2020-03-22 00:00:00
+56,Kenya,Presidential Re-Run,2017-10-26 00:00:00
+57,Kenya,Constitutional Assembly,2005-11-21 10:00:00
+58,Kenya,General,2022-08-09 00:00:00
+59,Kenya,General,2017-08-08 00:00:00
+60,Kenya,General,2013-03-04 10:00:00
+61,Kenya,Parliamentary,2007-12-27 10:00:00
+62,Kenya,Referendum,2010-08-04 08:00:00
+63,Lesotho,General,2022-10-07 00:00:00
+64,Lesotho,General,2015-02-28 00:00:00
+65,Lesotho,General,2012-05-26 08:00:00
+66,Lesotho,Local,2005-05-01 08:00:00
+67,Lesotho,Parliamentary,2007-02-17 10:00:00
+68,Liberia,General,2011-10-11 08:00:00
+69,Liberia,Legislative,2017-10-10 00:00:00
+70,Liberia,Presidential,2023-10-10 00:00:00
+71,Liberia,Presidential,2017-10-10 00:00:00
+72,Liberia,Presidential,2005-10-11 08:00:00
+73,Liberia,Presidential,2004-11-08 10:00:00
+74,Liberia,Presidential Runoff,2017-12-26 00:00:00
+75,Liberia,Presidential Runoff,2011-11-08 10:00:00
+76,Liberia,Presidential Runoff,2005-11-08 10:00:00
+77,Liberia,Referendum,2020-12-08 00:00:00
+78,Liberia,Referendum,2011-08-23 08:00:00
+79,Liberia,Senatorial,2020-12-08 00:00:00
+80,Liberia,Senatorial By-Election,2014-12-20 10:00:00
+81,Madagascar,Legislative,2007-09-23 08:00:00
+82,Madagascar,Parliamentary,2013-12-20 10:00:00
+83,Madagascar,Presidential,2018-11-07 00:00:00
+84,Madagascar,Presidential,2013-10-25 08:00:00
+85,Madagascar,Presidential,2006-12-03 10:00:00
+86,Madagascar,Presidential Runoff,2013-12-20 10:00:00
+87,Madagascar,Referendum,2010-11-17 10:00:00
+88,Madagascar,Referendum,2007-04-04 08:00:00
+89,Malawi,General,2019-05-21 00:00:00
+90,Malawi,General,2014-05-20 08:00:00
+91,Malawi,Legislative,2009-05-19 08:00:00
+92,Malawi,Parliamentary,2004-05-18 08:00:00
+93,Malawi,Presidential,2020-06-23 00:00:00
+94,Mali,Legislative,2023-10-12 00:00:00
+95,Mali,Legislative Runoff,2023-11-12 00:00:00
+96,Mali,Legislative Runoff,2020-04-19 00:00:00
+97,Mali,Local,2004-05-30 08:00:00
+98,Mali,Municipal,2016-11-20 00:00:00
+99,Mali,Municipal,2009-04-26 08:00:00
+100,Mali,Parliamentary,2020-03-29 00:00:00
+101,Mali,Parliamentary,2013-11-24 10:00:00
+102,Mali,Parliamentary,2007-07-01 08:00:00
+103,Mali,Parliamentary Runoff,2013-12-15 10:00:00
+104,Mali,Parliamentary Runoff,2007-07-22 08:00:00
+105,Mali,Presidential,2018-07-29 00:00:00
+106,Mali,Presidential,2013-07-28 08:00:00
+107,Mali,Presidential,2007-04-29 08:00:00
+108,Mali,Presidential Runoff,2018-08-12 00:00:00
+109,Mali,Presidential Runoff,2013-08-11 00:00:00
+110,Mali,Presidential Runoff,2007-05-13 08:00:00
+111,Mali,Referendum,2023-03-12 00:00:00
+112,Mali,Referendum,2021-10-31 00:00:00
+113,Mauritius,Parliamentary,2010-05-05 08:00:00
+114,Mauritius,Parliamentary,2005-09-01 08:00:00
+115,Morocco,General,2021-09-08 00:00:00
+116,Morocco,Local,2009-06-12 08:00:00
+117,Morocco,Municipal,2015-09-04 00:00:00
+118,Morocco,Parliamentary,2016-10-07 00:00:00
+119,Morocco,Parliamentary,2011-11-25 10:00:00
+120,Morocco,Parliamentary,2007-09-07 08:00:00
+121,Morocco,Referendum,2011-07-01 08:00:00
+122,Mozambique,General,2019-10-15 00:00:00
+123,Mozambique,General,2014-10-15 08:00:00
+124,Mozambique,Parliamentary,2009-10-28 08:00:00
+125,Mozambique,Presidential,2004-12-01 10:00:00
+126,Namibia,General,2014-11-28 10:00:00
+127,Namibia,Local,2015-11-27 10:00:00
+128,Namibia,Local,2010-11-27 10:00:00
+129,Namibia,Local,2010-11-26 10:00:00
+130,Namibia,Parliamentary,2009-11-27 10:00:00
+131,Namibia,Parliamentary,2004-11-15 10:00:00
+132,Namibia,Presidential,2019-11-27 00:00:00
+133,Niger,Presidential and Parliamentary Runoff,2016-03-20 08:00:00
+134,Niger,Legislative,2020-12-27 00:00:00
+135,Niger,Legislative,2011-01-31 10:00:00
+136,Niger,Local,2016-05-09 08:00:00
+137,Niger,Local,2004-07-24 08:00:00
+138,Niger,Municipal,2011-01-08 10:00:00
+139,Niger,Presidential,2020-12-27 00:00:00
+140,Niger,Presidential,2016-02-21 00:00:00
+141,Niger,Presidential,2009-10-20 08:00:00
+142,Niger,Presidential,2004-11-16 10:00:00
+143,Niger,Presidential,2004-10-01 08:00:00
+144,Niger,Presidential Runoff,2021-02-21 00:00:00
+145,Niger,Presidential Runoff,2011-03-12 10:00:00
+146,Niger,Presidential Runoff,2004-12-04 10:00:00
+147,Niger,Referendum,2010-10-31 08:00:00
+148,Niger,Referendum,2009-08-04 08:00:00
+149,Nigeria,General,2023-02-25 00:00:00
+150,Nigeria,General,2019-02-23 00:00:00
+151,Nigeria,General,2015-03-28 00:00:00
+152,Nigeria,General,2007-04-21 08:00:00
+153,Nigeria,Gubernatorial,2022-07-16 00:00:00
+154,Nigeria,Gubernatorial,2022-06-18 00:00:00
+155,Nigeria,Gubernatorial,2020-10-10 00:00:00
+156,Nigeria,Gubernatorial,2020-09-19 00:00:00
+157,Nigeria,Gubernatorial,2019-11-16 00:00:00
+158,Nigeria,Gubernatorial,2019-03-09 00:00:00
+159,Nigeria,Gubernatorial,2018-09-22 00:00:00
+160,Nigeria,Gubernatorial,2018-07-14 00:00:00
+161,Nigeria,Gubernatorial,2017-11-18 00:00:00
+162,Nigeria,Gubernatorial,2016-11-26 00:00:00
+163,Nigeria,Legislative,2011-04-09 08:00:00
+164,Nigeria,Local,2004-03-27 10:00:00
+165,Nigeria,Municipal,2016-12-17 00:00:00
+166,Nigeria,Parliamentary Re-run,2016-07-30 00:00:00
+167,Nigeria,Parliamentary Re-run,2016-07-23 00:00:00
+168,Nigeria,Regional,2011-04-26 08:00:00
+169,Nigeria,State Assembly,2019-03-09 00:00:00
+170,Nigeria,State Assembly,2007-04-14 08:00:00
+171,Sao Tome and Principe,Presidential,2016-07-17 00:00:00
+172,Sao Tome and Principe,Presidential Runoff,2016-08-07 00:00:00
+173,Senegal,Legislative,2017-07-02 00:00:00
+174,Senegal,Local,2022-01-23 00:00:00
+175,Senegal,Parliamentary,2022-07-31 00:00:00
+176,Senegal,Parliamentary,2012-07-01 08:00:00
+177,Senegal,Presidential,2019-02-24 00:00:00
+178,Senegal,Presidential,2012-02-26 10:00:00
+179,Senegal,Presidential,2005-02-07 10:00:00
+180,Senegal,Presidential Runoff,2012-03-25 08:00:00
+181,Senegal,Referendum,2016-03-20 00:00:00
+182,Sierra Leone,General,2023-06-24 00:00:00
+183,Sierra Leone,General,2018-03-07 00:00:00
+184,Sierra Leone,Local,2004-05-22 08:00:00
+185,Sierra Leone,Municipal,2008-07-05 08:00:00
+186,Sierra Leone,Parliamentary,2012-11-17 10:00:00
+187,Sierra Leone,Presidential,2007-08-11 08:00:00
+188,Sierra Leone,Presidential Runoff,2018-03-31 00:00:00
+189,Sierra Leone,Presidential Runoff,2007-09-08 08:00:00
+190,South Africa,General,2019-05-08 00:00:00
+191,South Africa,General,2014-05-07 08:00:00
+192,South Africa,Local,2016-08-03 00:00:00
+193,South Africa,Municipal,2016-11-09 00:00:00
+194,South Africa,Parliamentary,2009-04-22 08:00:00
+195,South Africa,Presidential,2004-04-24 08:00:00
+196,South Africa,Presidential,2004-04-14 08:00:00
+197,Sudan,General,2023-07-12 00:00:00
+198,Sudan,General,2015-04-13 00:00:00
+199,Sudan,General,2010-04-11 08:00:00
+200,Sudan,Gubernatorial,2011-05-02 00:00:00
+201,Sudan,Referendum,2016-04-11 08:00:00
+202,Sudan,Referendum,2011-01-09 10:00:00
+203,Tanzania,General,2020-10-28 00:00:00
+204,Tanzania,General,2015-10-25 00:00:00
+205,Tanzania,General,2005-12-14 10:00:00
+206,Tanzania,Local,2019-11-24 00:00:00
+207,Tanzania,Presidential,2005-10-30 00:00:00
+208,Tanzania,Regional,2016-03-20 00:00:00
+209,Tanzania,Regional,2010-10-31 00:00:00
+210,Togo,Legislative,2018-12-20 00:00:00
+211,Togo,Local,2018-12-16 00:00:00
+212,Togo,Parliamentary,2013-07-25 08:00:00
+213,Togo,Parliamentary,2007-10-14 08:00:00
+214,Togo,Parliamentary,2007-06-24 08:00:00
+215,Togo,Presidential,2020-02-22 00:00:00
+216,Togo,Presidential,2015-04-25 00:00:00
+217,Togo,Presidential,2010-03-04 10:00:00
+218,Togo,Presidential,2005-04-24 08:00:00
+219,Togo,Referendum,2018-12-16 00:00:00
+220,Tunisia,General,2009-10-25 08:00:00
+221,Tunisia,Legislative,2022-12-17 00:00:00
+222,Tunisia,Legislative,2011-10-23 08:00:00
+223,Tunisia,Municipal,2018-05-06 00:00:00
+224,Tunisia,Parliamentary,2019-10-06 00:00:00
+225,Tunisia,Parliamentary,2014-10-26 08:00:00
+226,Tunisia,Presidential,2019-09-15 00:00:00
+227,Tunisia,Presidential,2014-11-23 10:00:00
+228,Tunisia,Presidential Runoff,2019-10-13 00:00:00
+229,Tunisia,Presidential Runoff,2014-12-21 10:00:00
+230,Tunisia,Referendum,2022-07-25 00:00:00
+231,Uganda,General,2021-01-14 00:00:00
+232,Uganda,General,2016-02-18 00:00:00
+233,Uganda,General,2011-02-18 10:00:00
+234,Uganda,Local,2016-08-29 00:00:00
+235,Uganda,Local,2006-03-06 10:00:00
+236,Uganda,Local,2006-02-28 10:00:00
+237,Uganda,Parliamentary,2016-08-29 00:00:00
+238,Uganda,Parliamentary,2006-02-23 10:00:00
+239,Uganda,Referendum,2005-07-28 08:00:00
+240,Zambia,General,2021-08-12 00:00:00
+241,Zambia,General,2011-09-20 08:00:00
+242,Zambia,Legislative,2006-09-28 08:00:00
+243,Zambia,Parliamentary,2019-04-11 00:00:00
+244,Zambia,Presidential,2016-08-11 00:00:00
+245,Zambia,Presidential,2008-10-30 08:00:00
+246,Zambia,Presidential By-election,2015-01-20 00:00:00
+247,Zimbabwe,Constitutional Assembly,2013-03-16 08:00:00
+248,Zimbabwe,General,2023-08-12 00:00:00
+249,Zimbabwe,General,2018-07-30 00:00:00
+250,Zimbabwe,General,2013-07-31 08:00:00
+251,Zimbabwe,Parliamentary,2008-03-29 08:00:00
+252,Zimbabwe,Parliamentary,2005-03-31 10:00:00
+253,Zimbabwe,Presidential Runoff,2008-06-27 08:00:00

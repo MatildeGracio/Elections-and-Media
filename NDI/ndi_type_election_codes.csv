@@ -1,0 +1,53 @@
+,Election Type,Code
+0,Presidential and Parliamentary,2
+1,Presidential and Parliamentary By-Election,3
+2,Presidential and Parliamentary Phase 1,4
+3,Presidential and Parliamentary Phase 2,5
+4,Presidential and Parliamentary Phase 3,6
+5,Presidential and Parliamentary Phase 4,7
+6,Presidential and Parliamentary Re-run,8
+7,Presidential and Parliamentary Runoff,9
+8,Presidential Re-Run,5622
+9,Commune Council,10
+10,Constitutional Assembly,12
+11,Executive,13
+12,General Runoff,14
+13,General,15
+14,Gubernatorial,16
+15,Legislative,17
+16,Legislative Runoff,18
+17,Local,19
+18,Local Runoff,20
+19,Local Phase 1,21
+20,Local Phase 2,22
+21,Local Phase 3,23
+22,Local Phase 4,24
+23,Municipal,25
+24,Municipal Runoff,26
+25,National Assembly,27
+26,National Council,28
+27,Parliamentary,29
+28,Parliamentary Phase 1,30
+29,Parliamentary Phase 2,31
+30,Parliamentary Phase 3,32
+31,Parliamentary Phase 4,33
+32,Parliamentary Re-run,34
+33,Parliamentary Runoff,35
+34,Parliamentary By-Election,36
+35,Parochial,37
+36,Presidential,38
+37,Presidential By-election,39
+38,Presidential Phase 1,40
+39,Presidential Phase 2,41
+40,Presidential Phase 3,42
+41,Presidential Referendum,43
+42,Presidential Runoff,44
+43,Re-run Presidential Runoff,45
+44,Provincial Assembly,46
+45,Referendum Phase 1,47
+46,Referendum Phase 2,48
+47,Referendum,49
+48,Regional,50
+49,Senatorial,51
+50,Senatorial By-Election,52
+51,State Assembly,53
